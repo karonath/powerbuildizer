@@ -1,0 +1,7 @@
+{
+  "name": "powerbuildizer",
+  "version": "0.1.0",
+  "description": "Runs product work end to end with verified UX standards (WCAG 2.2 AA, Core Web Vitals, EAA) and a posture that challenges. Deliverables in the user's language.",
+  "author": { "name": "Charlys Menuet" },
+  "license": "CC-BY-NC-SA-4.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "karonath-skills",
+  "owner": { "name": "Charlys Menuet" },
+  "plugins": [
+    {
+      "name": "powerbuildizer",
+      "source": "./plugins/powerbuildizer",
+      "description": "Lead product builder: framing, spec/PRD/user stories, UX critique, prototype, tracking, agent orchestration. Verified UX standards (WCAG 2.2 AA, Core Web Vitals, EAA)."
+    }
+  ]
+}
