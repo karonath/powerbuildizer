@@ -1,5 +1,6 @@
 {
   "name": "karonath-skills",
+  "description": "Skills by Charlys Menuet for product work: framing, specification, UX critique and prototyping, built on verified standards rather than plausible prose.",
   "owner": { "name": "Charlys Menuet" },
   "plugins": [
     {
